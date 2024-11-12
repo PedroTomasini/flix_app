@@ -80,7 +80,3 @@ Sinta-se à vontade para abrir issues ou pull requests para melhorias e novas fu
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
----
-
-Esse README proporciona uma visão geral das funcionalidades do projeto, instruções de configuração e como executá-lo localmente.
