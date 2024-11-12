@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para seu projeto:
-
----
-
 # Flix App
 
 Flix App é um frontend desenvolvido em Streamlit que consome dados de uma API criada com Django Rest Framework. Este projeto permite que os usuários visualizem informações de filmes, gêneros, atores e avaliações, com funcionalidades de autenticação para acessar e gerenciar conteúdo personalizado.
